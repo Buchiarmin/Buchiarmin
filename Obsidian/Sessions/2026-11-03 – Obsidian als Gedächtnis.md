@@ -8,3 +8,4 @@ tags: [session]
 - `CLAUDE.md` mit dieser Regel angelegt, Vault `Obsidian/` mit Index, Projekt-, Entscheidungs- und Session-Notizen aufgebaut.
 
 → [[Obsidian als Gedächtnis]]
+- GitHub-Zugriff repariert; beide Commits auf `claude/code-plugins-setup-0hqh56` gepusht.
