@@ -11,6 +11,7 @@ Startpunkt. Claude liest diese Notiz zu Beginn jeder Aufgabe.
 
 ## Projekte
 - [[Claude Code Plugins]] – meine 9 Skills/Plugins und ihre Installation
+- [[Obsidian am Handy]] – Vault per Git-Plugin aufs Handy holen
 
 ## Sessions
 - [[2026-10-28 – Plugin-Setup]]
