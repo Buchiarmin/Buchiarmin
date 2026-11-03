@@ -22,5 +22,6 @@ Alle Namen am 2026-10-28 gegen die `marketplace.json` der Repos geprüft.
 
 ## Status
 - 2026-11-03: GitHub-Zugriff vom Nutzer repariert, Branch `claude/code-plugins-setup-0hqh56` gepusht (403-Problem gelöst).
+- 2026-11-03: PR #1 vom Nutzer gemergt – Setup ist jetzt in `main`.
 
 Siehe [[2026-10-28 – Plugin-Setup]].
