@@ -15,3 +15,4 @@ tags: [session]
 - Nutzer fragte, was „PR mergen“ heißt: erklärt (Branch in `main` übernehmen, Button „Merge pull request“). Angeboten, den Merge selbst zu machen.
 - PR #1 vom Nutzer gemergt; Plugins, `CLAUDE.md` und Vault liegen jetzt in `main`.
 - Hinweis: Das Repo `Buchiarmin/Buchiarmin` ist das GitHub-Profil-Repo – `README.md` erscheint öffentlich auf der Profilseite.
+- Nutzer will alles in ein privates Repo umziehen. Anlegen per Claude-App scheiterte (403) → Nutzer legt leeres privates Repo `claude-setup` selbst an; danach überträgt Claude alles und entfernt die Dateien per PR aus dem Profil-Repo.
