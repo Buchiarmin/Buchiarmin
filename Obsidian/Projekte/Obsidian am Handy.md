@@ -4,7 +4,7 @@ tags: [projekt, obsidian, mobil]
 ---
 # Obsidian am Handy
 
-Vault liegt auf GitHub (geplant: privates Repo `Buchiarmin/claude-setup`), Notizen im Ordner `Obsidian/`.
+Vault liegt auf GitHub (privates Repo `Buchiarmin/claude-setup`), Notizen im Ordner `Obsidian/`.
 
 **Einrichtung am Handy:**
 1. Beim Start „Auf diesem Gerät“ wählen (nicht Obsidian Sync/iCloud – die verbinden nicht mit GitHub), leeren Vault `claude-setup` anlegen.

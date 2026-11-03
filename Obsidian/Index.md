@@ -14,6 +14,9 @@ Startpunkt. Claude liest diese Notiz zu Beginn jeder Aufgabe.
 - [[Claude Code Plugins]] – meine 9 Skills/Plugins und ihre Installation
 - [[Obsidian am Handy]] – Vault per Git-Plugin aufs Handy holen
 
+## Entscheidungen
+- [[Umzug ins private Repo]] – warum alles in `claude-setup` liegt
+
 ## Begriffe
 - [[Obsidian]] · [[Graph-Ansicht]] · [[Wikilinks]] · [[GitHub]] · [[Obsidian Git Plugin]] · [[Claude Code]]
 
