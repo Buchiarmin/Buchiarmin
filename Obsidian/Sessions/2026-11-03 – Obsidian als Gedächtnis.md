@@ -12,3 +12,4 @@ tags: [session]
 - Repo hatte keinen Hauptbranch: `main` mit leerem Start-Commit angelegt (per Merge verbunden, kein Force-Push).
 - PR #1 erstellt: https://github.com/Buchiarmin/Buchiarmin/pull/1
 - Nach dem Merge: in GitHub unter Settings → General → Default branch `main` als Standard setzen.
+- Nutzer fragte, was „PR mergen“ heißt: erklärt (Branch in `main` übernehmen, Button „Merge pull request“). Angeboten, den Merge selbst zu machen.
